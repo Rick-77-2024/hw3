@@ -1,0 +1,46 @@
+* {
+    scroll-behavior: smooth;
+}
+
+head, body {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.one {
+    display: flex;
+    flex-direction: column;
+    background-color: #ca9366;
+    width: 98vw;
+    height: 65vw;
+    justify-content: center;
+    align-items: center;
+}
+
+.two {
+    display: flex;
+    flex-direction: column;
+    background-color: #9bd3d5;
+    width: 98vw;
+    height: 65vw;
+    justify-content: center;
+    align-items: center;
+}
+
+.three {
+    display: flex;
+    flex-direction: column;
+    background-color: #86bd97;
+    width: 98vw;
+    height: 65vw;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    text-align: center;
+}
